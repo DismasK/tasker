@@ -1,30 +1,6 @@
-# tasker
-
-> An application to manage employees tasks from a centralized point
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# Tasker
+ Tasker is a task management tool designed to help teams stay organized and efficiently manage tasks and projects.
+ 
+ SYSTEM FEATURES
+ 
+This system enables the project manager to add, delete, and update employee details. It allows the project manager to assign tasks to individual employees, track their progress, and provide feedback on their work. It also allows the project manager to keep track of employee attendance and leave requests. The system provides a dashboard that shows the overall progress of the project, as well as a timeline view of each employee's progress. Additionally, the system provides detailed reports on employee performance and productivity. Alerts are sent to employees via SMS and email when new tasks has been added or changes have been made to a task they are responsible for. Alerts can also be sent to employees to remind them of deadlines, upcoming meetings, and other important dates. Additionally, alerts can be sent to inform employees of new policies and procedures, changes in benefits, or other changes in the workplace. Employees login to the portal using their username and password and update progress on their assigned tasks. They can also view their performance and the performance of their peers. They can also view upcoming tasks and deadlines. They can also communicate with their peers and managers through the portal. Chart analytics provide a graphical representation of task assignments and associated data. This allows the project manager to quickly identify trends in employee performance, identify areas that require improvement, and take corrective action. Chart analytics can be used to identify which tasks are taking longer to complete than expected, which tasks are taking up more resources than anticipated, and which tasks are being completed more quickly than expected. This information can be used to improve the overall efficiency and productivity of the team. An integrated natural language processing API enables for the writing of new requirements and project reviews. It offers tools such as sentence structure analysis, word choice analysis, and grammar and punctuation correction. It can also be used to generate summaries and detect sentiment in text.
